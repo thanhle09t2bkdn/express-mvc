@@ -1,0 +1,11 @@
+MONGODB_URI=mongodb://localhost:27017/express-mvc
+MONGOLAB_URI=mongodb://localhost:27017/express-mvc
+
+SESSION_SECRET=Your Session Secret goes here
+
+MAIL_HOST=smtp.gmail.com
+MAIL_PORT=465
+MAIL_USER=noreplythanhle@gmail.com
+MAIL_PASSWORD=!@#noreply!@#
+
+
