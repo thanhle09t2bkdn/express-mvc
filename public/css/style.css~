@@ -1,0 +1,25 @@
+.sidebar {
+    position: fixed; 
+    margin-top: 80px;  
+}
+.col-md-offset-10{
+    margin-left: 18%;
+    margin-top: 80px;
+    margin-right: 10px;
+}
+caption {
+  text-align: center;
+}
+.nav-header {
+    display: block;
+    padding: 3px;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 20px;
+    color: #999;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+    text-transform: uppercase;
+}
+.nav-list li a {
+    padding: 3px 15px;
+}

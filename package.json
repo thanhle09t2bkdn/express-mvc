@@ -1,0 +1,30 @@
+{
+  "name": "express-mvc",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Thanh Le",
+  "license": "ISC",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "compression": "^1.6.2",
+    "connect-mongo": "^1.2.1",
+    "dotenv": "^2.0.0",
+    "errorhandler": "^1.4.3",
+    "express": "^4.14.0",
+    "express-flash": "0.0.2",
+    "express-session": "^1.13.0",
+    "express-validator": "^2.20.8",
+    "jade": "^1.11.0",
+    "mongoose": "^4.5.2",
+    "multer": "^1.1.0",
+    "nodemailer": "^2.4.2",
+    "passport": "^0.3.2",
+    "request": "^2.72.0",
+    "validator": "^5.4.0"
+  }
+}
